@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CodeBox/static/css/main.aaec4c1b.css",
+    "main.js": "/CodeBox/static/js/main.e3767fc0.js",
+    "index.html": "/CodeBox/index.html",
+    "main.aaec4c1b.css.map": "/CodeBox/static/css/main.aaec4c1b.css.map",
+    "main.e3767fc0.js.map": "/CodeBox/static/js/main.e3767fc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaec4c1b.css",
+    "static/js/main.e3767fc0.js"
+  ]
+}
